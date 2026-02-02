@@ -39,7 +39,7 @@ Normalizes it into a Support Snapshot view
 Displays everything in one UI
 No classic API XML. No scraping. No Jamf UI dependency.
 
-##🔐 Security
+## 🔐 Security
 
 Uses Jamf Pro Bearer Tokens
 Tokens stay local to your Mac
@@ -47,7 +47,7 @@ No data is stored externally
 No Jamf credentials are saved in the app
 
 
-##📱 Mobile Devices (Coming Soon)
+## 📱 Mobile Devices (Coming Soon)
 
 Mobile device support is currently in development.
 Planned endpoint:
@@ -65,7 +65,7 @@ This will give Support teams the same snapshot experience they already have for 
 
 
 
-##🛠 Installation
+## 🛠 Installation
 
 Download the latest build from the Releases page.
 macOS
@@ -78,7 +78,7 @@ If macOS blocks it:
 System Settings → Privacy & Security → Open Anyway
 
 
-##🧠 Why Support Snapshot exists
+## 🧠 Why Support Snapshot exists
 
 Jamf has powerful APIs — but frontline support teams shouldn’t have to:
 
