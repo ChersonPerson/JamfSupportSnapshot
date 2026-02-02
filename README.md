@@ -1,6 +1,6 @@
 # JamfSupportSnapshot
 
-<p align="center">
+<p align="left">
   <img src="assets/icon.png" width="200" />
 </p>
 
