@@ -108,5 +108,5 @@ Support Snapshot turns Jamf into a support-grade diagnostic tool.
 
 ## 📸 Screenshots
 <img src="assets/screenshots/main-view.png" width="48%" />
-![Computer Details](screenshots/computer-details.png)
+![Computer Details](assets/screenshots/computer-details.png)
 
