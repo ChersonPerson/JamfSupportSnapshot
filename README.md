@@ -1,5 +1,9 @@
 # JamfSupportSnapshot
 
+<p align="center">
+  <img src="assets/icon.png" width="200" />
+</p>
+
 ## 🧭 Support Snapshot
 
 Fast, structured Jamf Pro visibility for frontline IT & Support
