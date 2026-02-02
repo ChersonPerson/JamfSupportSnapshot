@@ -1,6 +1,6 @@
 # JamfSupportSnapshot
 
-🧭 Support Snapshot
+## 🧭 Support Snapshot
 
 Fast, structured Jamf Pro visibility for frontline IT & Support
 
