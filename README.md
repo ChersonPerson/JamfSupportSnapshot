@@ -39,6 +39,20 @@ Normalizes it into a Support Snapshot view
 Displays everything in one UI
 No classic API XML. No scraping. No Jamf UI dependency.
 
+## 🔑 Requirements (Jamf API Access)
+
+Support Snapshot uses **Jamf Pro Client Credentials (OAuth)**.  
+You must create an API Client in Jamf Pro before using the app.
+
+### Required API Permissions
+
+Your Jamf API Client must have at least:
+
+| Category | Privileges |
+|---|---|
+| Computers | Read |
+| Mobile Devices | Read |
+
 ## 🔐 Security
 
 Uses Jamf Pro Bearer Tokens
