@@ -33,11 +33,11 @@ Computers
 
 
 The app:
-Pulls all computer IDs
-Fetches each full inventory record
-Normalizes it into a Support Snapshot view
-Displays everything in one UI
-No classic API XML. No scraping. No Jamf UI dependency.
+- Pulls all computer IDs
+- Fetches each full inventory record
+- Normalizes it into a Support Snapshot view
+- Displays everything in one UI
+- No classic API XML. No scraping. No Jamf UI dependency.
 
 ## 🔑 Requirements (Jamf API Access)
 
@@ -55,10 +55,10 @@ Your Jamf API Client must have at least:
 
 ## 🔐 Security
 
-Uses Jamf Pro Bearer Tokens
-Tokens stay local to your Mac
-No data is stored externally
-No Jamf credentials are saved in the app
+- Uses Jamf Pro Bearer Tokens
+- Tokens stay local to your Mac
+- No data is stored externally
+- No Jamf credentials are saved in the app
 
 
 ## 📱 Mobile Devices (Coming Soon)
@@ -69,24 +69,24 @@ Planned endpoint:
 
 When released, Support Snapshot will show:
 
-Device name, model, iOS version
-Supervision & MDM status
-User assignment
-iCloud & Activation Lock
-Lost Mode, Passcode, Compliance
-Last check-in and inventory
+- Device name, model, iOS version
+- Supervision & MDM status
+- User assignment
+- iCloud & Activation Lock
+- Lost Mode, Passcode, Compliance
+- Last check-in and inventory
 This will give Support teams the same snapshot experience they already have for computers.
 
 
 
 ## 🛠 Installation
 
-Download the latest build from the Releases page.
-macOS
-Download the .dmg or .zip
-Move Support Snapshot.app to Applications
-Launch the app
-Enter your Jamf Pro URL and API token
+1. Download the latest build from the Releases page.
+2. macOS
+3. Download the .zip
+4. Move Support Snapshot.app to Applications
+5. Launch the app
+6. Enter your Jamf Pro URL and API token
 
 If macOS blocks it:
 System Settings → Privacy & Security → Open Anyway
@@ -96,8 +96,8 @@ System Settings → Privacy & Security → Open Anyway
 
 Jamf has powerful APIs — but frontline support teams shouldn’t have to:
 
-Build curl commands
-Parse JSON
-Or dig through 10 Jamf pages per ticket
+- Build curl commands
+- Parse JSON
+- Or dig through 10 Jamf pages per ticket
 
 Support Snapshot turns Jamf into a support-grade diagnostic tool.
