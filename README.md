@@ -107,6 +107,5 @@ Jamf has powerful APIs — but frontline support teams shouldn’t have to:
 Support Snapshot turns Jamf into a support-grade diagnostic tool.
 
 ## 📸 Screenshots
-<img src="assets/screenshots/main-view.png" width="48%" />
-![Computer Details](assets/screenshots/computer-details.png)
+<img src="assets/screenshots/main-view.png" width="100%" />
 
